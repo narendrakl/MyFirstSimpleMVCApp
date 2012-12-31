@@ -1,0 +1,3 @@
+It was just a simple webapp it just checks the user inputs and based on that it will show error msg or success msg to the user in the browser
+
+Dowload it run in eclipse in the server(Tomcat) Register page wil be served, afterwards based on user inputs it will show the error or success msg. 
